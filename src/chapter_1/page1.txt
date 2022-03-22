@@ -1,3 +1,4 @@
-This is the first chapter
-This is line two
+This is the first line.
+This is line two.
+
 This is line three.
